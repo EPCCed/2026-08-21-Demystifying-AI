@@ -24,3 +24,7 @@ Repo for UKAIFA Demystifying AI in-person course
 
 
 This course was created by Adam Carter, EPCC, The University of Edinburgh
+
+
+![pilot-img.png](pilot-img.png)
+
