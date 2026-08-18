@@ -5,6 +5,7 @@ Repo for UKAIFA Demystifying AI in-person course
 
 ## Course Timetable
 
+```
 09:30 Welcome & Course Overview
 09:40 What is AI? / Introduction to Machine Learning - Part 1
 10:30 Break
@@ -18,7 +19,7 @@ Repo for UKAIFA Demystifying AI in-person course
 15:30 Beyond the Prompt: Introduction to AI-assisted coding and Agentic AI
 16:20 Wrap-Up
 16:30 Close
-
+```
 
 
 
