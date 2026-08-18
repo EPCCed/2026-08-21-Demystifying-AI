@@ -28,3 +28,4 @@ This course was created by Adam Carter, EPCC, The University of Edinburgh as par
 
 ![pilot-img.png](pilot-img.png)
 
+Unless otherwise stated, materials in this repository are &copy; 2026 The University of Edinburgh and may be reused under the terms of CC BY 4.0.
