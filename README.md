@@ -14,6 +14,8 @@ Course participants should have been provided access to the EIDF Notebook Servic
 
 You can visit (https://notebook.eidf.ac.uk), and log in (via SAFE) using the email address that you used when registering for the course.
 
+Choose "Data science environment" and click `Start`.
+
 Open a blank Python notebook and type
 
 ```bash
