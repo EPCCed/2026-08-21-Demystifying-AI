@@ -4,6 +4,23 @@ Edinburgh, Friday 21st August, 2026
 
 ## Course Materials
 
+The course slides are available in the [slides] directory. This slide deck references the various practical exercises which are all based on notebooks contained in the [practicals] directory.
+
+Participants on the course are recommended to undertake these practical exercises on the EIDF notebook service, but practical exercises can also be undertaken on any machine with access to standard python libraries (e.g., those available via the Anaconda distribution).
+
+### Running on the Notebook Service
+
+Course participants should have been provided access to the EIDF Notebook Service as part of the course sign-up process.
+
+You can visit (https://notebook.eidf.ac.uk), and log in (via SAFE) using the email address that you used when registering for the course.
+
+Open a blank Python notebook and type
+
+```bash
+git clone https://github.com/EPCCed/2026-08-21-Demystifying-AI
+```
+That will copy all of the files from this repository into your workspace on the EIDF Notebook Service.
+
 ## Course Timetable
 
 ```
